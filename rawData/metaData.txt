@@ -1,0 +1,21 @@
+Maddison Historical GDP Data
+
+Maddison historical data covers population by country, GDP and GDP per capita back to 1820. This data is grouped by region and can be downloaded for the last 30 years or in it's entirety:
+
+Downloadable Data: 
+    Europe - last 30 years: Population - GDP - GDP Per capita
+    All European data since 1820 (227kb)
+
+    North America - last 30 years: Population - GDP - GDP Per capita
+    All North American data since 1820 (42kb) 
+
+    Central & South America - last 30 years: Population - GDP - GDP Per capita
+    All Central & South American data since 1820 (116kb) 
+
+    Africa - last 30 years: Population - GDP - GDP Per capita
+    All African data since 1820 (202kb) 
+
+    Asia-Pacific - last 30 years: Population - GDP - GDP Per capita
+    All Asia Pacific data since 1820 (186kb)
+
+http://www.worldeconomics.com/Data/MadisonHistoricalGDP/Madison%20Historical%20GDP%20Data.efp
