@@ -1,0 +1,4 @@
+VARIABLE DESCRIPTIONS
+population		Country population at mid-year
+gdp				Gross domestic product based on Geary-Khamis dollar (1990 Int. GK$)
+per_capita gdp	gdp / population
